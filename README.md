@@ -1,5 +1,8 @@
 # Robustness in Large-Scale Systems
 
+<img src="./powerlaw_fit.png" width="650" height="700">
+
+
 This repository explores the robustness of large-scale systems through the lens of network theory, focusing on the properties of scale-free networks. The key metric investigated is the scaling exponent, a measure of the degree distribution's power-law behavior in such networks.
 
 ## Overview
